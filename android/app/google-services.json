@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909211628733",
+    "project_id": "vegetable-vendor-app",
+    "storage_bucket": "vegetable-vendor-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909211628733:android:535ff51bdcc46b2816f3d4",
+        "android_client_info": {
+          "package_name": "com.shivam.vendors_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABnENNEhiZPU9Qq3kQQ8LNiRF2nes4Pqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
